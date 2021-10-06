@@ -46,8 +46,8 @@ class Generator {
     }
 
     generatePassword() {
-        // if (length > 20) return
-        let countBox = this.lowerBox.checked + this.upperBox.checked + this.numberBox.checked + this.symbolBox.checked;
+        if (this.length)
+            let countBox = this.lowerBox.checked + this.upperBox.checked + this.numberBox.checked + this.symbolBox.checked;
         console.log(countBox);
         let lower = this.lowerBox.checked;
         let upper = this.upperBox.checked;

@@ -61,8 +61,7 @@ i {
     float: right;
     background-color: darkblue;
     padding: 10px;
-    position: absolute;
-    left: 68%;
+    position: ;
 }
 
 i:hover {
