@@ -1,0 +1,1 @@
+const length = document.querySelector('#length');

@@ -1,0 +1,47 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    height: 700px;
+    background-color: rgb(75, 72, 243);
+    color: white;
+    text-transform: uppercase;
+}
+
+.passwordGenerator {
+    margin: auto;
+    padding: 20px;
+    background-color: rgb(25, 25, 151);
+}
+
+input {
+    border: none;
+    outline: none;
+    float: right;
+    width: 40px;
+}
+
+p {
+    margin: 20px 0;
+    text-transform: ;
+}
+
+.select-options,
+h1 {
+    padding: 30px;
+}
+
+button {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+.password {
+    background-color: darkblue;
+    height: 50px;
+}

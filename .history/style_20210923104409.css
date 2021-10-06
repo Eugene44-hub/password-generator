@@ -1,0 +1,29 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    height: 700px;
+    background-color: rgb(75, 72, 243);
+}
+
+.passwordGenerator {
+    margin: auto;
+    background-color: rgb(25, 25, 151);
+}
+
+input {
+    border: none;
+    outline: none;
+    float: right;
+    width: 40px;
+}
+
+p {
+    margin: 20px 0
+}
+
+.selecet-options {}
