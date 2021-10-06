@@ -54,7 +54,7 @@ button {
     font-family: monospace;
     font-size: 20px;
     overflow: hidden;
-    position: relative;
+    position: ;
 }
 
 i {
@@ -63,7 +63,6 @@ i {
     background-color: darkblue;
     padding: 10px;
     position: absolute;
-    right: 0;
 }
 
 i:hover {
